@@ -31,13 +31,13 @@ function Contact() {
         </p>
 
         <p style={{ marginBottom: "12px" }}>
-          📞 <b>Phone:</b> 9560939353
+          📞 <b>Phone:</b> 9548488443
         </p>
 
         <p style={{ marginBottom: "12px" }}>
           💻 <b>GitHub:</b>{" "}
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/"
             target="_blank"
             style={{ color: "#38bdf8" }}
           >
@@ -48,7 +48,7 @@ function Contact() {
         <p style={{ marginBottom: "12px" }}>
           🔗 <b>LinkedIn:</b>{" "}
           <a
-            href="https://linkedin.com/in/your-profile"
+            href="https://www.linkedin.com/feed/"
             target="_blank"
             style={{ color: "#38bdf8" }}
           >
@@ -59,7 +59,7 @@ function Contact() {
         <p>
           🧠 <b>LeetCode:</b>{" "}
           <a
-            href="https://leetcode.com/your-username"
+            href="https://leetcode.com/u/sneha_shankhwar/"
             target="_blank"
             style={{ color: "#38bdf8" }}
           >
