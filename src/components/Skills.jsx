@@ -12,7 +12,7 @@ function Skills() {
       </h2>
 
       <p style={{ maxWidth: "850px", margin: "0 auto 20px", color: "#94a3b8" }}>
-        Strong in data structures and algorithms. Solved 230+ problems on LeetCode
+        Strong in data structures and algorithms. Solved 250+ problems on LeetCode
         with a focus on clean, optimized, and logical solutions — along with real-world
         app and website development.
       </p>
@@ -42,9 +42,9 @@ function Skills() {
         <SkillCard title="Web Development" items="React, HTML, CSS" />
         <SkillCard title="Backend Development" items="Python, SQL, REST APIs, Database Design" />
 
-        <SkillCard title="Problem Solving" items="250+ LeetCode, DSA, Algorithms" />
-        <SkillCard title="Core Topics" items="Arrays, Trees, Recursion, DP" />
-        <SkillCard title="Tools" items="Git, GitHub, VS Code" />
+        <SkillCard title="Problem Solving" items="250+ LeetCode, Data Structures and Algorithms" />
+
+        <SkillCard title="Tools" items="GitHub, VS Code, Android Studio, LLM Tools (ChatGPT, Gemini)" />
       </div>
     </section>
   );
