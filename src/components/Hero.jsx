@@ -48,7 +48,7 @@ function Hero() {
         }}
       >
         I build real digital products — mobile apps and modern websites — with strong
-        foundations in problem solving, data structures, and clean UI design.
+        foundations in problem solving, data structures & algorithms, and clean UI design and development.
       </p>
 
       <p

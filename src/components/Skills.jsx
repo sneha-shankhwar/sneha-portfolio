@@ -40,7 +40,9 @@ function Skills() {
         <SkillCard title="Programming" items="Python, JavaScript, TypeScript" />
         <SkillCard title="App Development" items="React Native, Android Studio" />
         <SkillCard title="Web Development" items="React, HTML, CSS" />
-        <SkillCard title="Problem Solving" items="230+ LeetCode, DSA, Algorithms" />
+        <SkillCard title="Backend Development" items="Python, SQL, REST APIs, Database Design" />
+
+        <SkillCard title="Problem Solving" items="250+ LeetCode, DSA, Algorithms" />
         <SkillCard title="Core Topics" items="Arrays, Trees, Recursion, DP" />
         <SkillCard title="Tools" items="Git, GitHub, VS Code" />
       </div>
