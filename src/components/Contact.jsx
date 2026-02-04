@@ -30,7 +30,7 @@ function Contact() {
         <p style={{ marginBottom: "12px" }}>
           📧 <b>Email:</b>{" "}
           <a
-            href="https://mail.google.com/mail/?view=cm&fs=1&to=creativesoftwares96@gmail.com&su=Project%20Inquiry&body=Hello%20Sneha,"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=creativesoftwares96@gmail.com&su=Let’s%20Work%20Together&body=Hello%20Sneha,"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#38bdf8", textDecoration: "none" }}
