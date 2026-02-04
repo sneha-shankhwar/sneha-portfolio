@@ -26,16 +26,20 @@ function Contact() {
           boxShadow: "0 0 25px rgba(56,189,248,0.15)"
         }}
       >
+        {/* ✅ EMAIL (works on phone + laptop) */}
         <p style={{ marginBottom: "12px" }}>
           📧 <b>Email:</b>{" "}
           <a
-            href="mailto:creativesoftwares96@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=creativesoftwares96@gmail.com&su=Project%20Inquiry&body=Hello%20Sneha,"
+            target="_blank"
+            rel="noopener noreferrer"
             style={{ color: "#38bdf8", textDecoration: "none" }}
           >
             creativesoftwares96@gmail.com
           </a>
         </p>
 
+        {/* ✅ PHONE (opens dialer) */}
         <p style={{ marginBottom: "12px" }}>
           📞 <b>Phone:</b>{" "}
           <a
@@ -46,36 +50,37 @@ function Contact() {
           </a>
         </p>
 
-
-
+        {/* GitHub */}
         <p style={{ marginBottom: "12px" }}>
           💻 <b>GitHub:</b>{" "}
           <a
             href="https://github.com/"
             target="_blank"
-            style={{ color: "#38bdf8" }}
+            style={{ color: "#38bdf8", textDecoration: "none" }}
           >
             View profile
           </a>
         </p>
 
+        {/* LinkedIn */}
         <p style={{ marginBottom: "12px" }}>
           🔗 <b>LinkedIn:</b>{" "}
           <a
             href="https://www.linkedin.com/feed/"
             target="_blank"
-            style={{ color: "#38bdf8" }}
+            style={{ color: "#38bdf8", textDecoration: "none" }}
           >
             View profile
           </a>
         </p>
 
+        {/* LeetCode */}
         <p>
           🧠 <b>LeetCode:</b>{" "}
           <a
             href="https://leetcode.com/u/sneha_shankhwar/"
             target="_blank"
-            style={{ color: "#38bdf8" }}
+            style={{ color: "#38bdf8", textDecoration: "none" }}
           >
             View my profile
           </a>
