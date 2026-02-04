@@ -27,12 +27,26 @@ function Contact() {
         }}
       >
         <p style={{ marginBottom: "12px" }}>
-          📧 <b>Email:</b> creativesoftwares96@gmail.com
+          📧 <b>Email:</b>{" "}
+          <a
+            href="mailto:creativesoftwares96@gmail.com"
+            style={{ color: "#38bdf8", textDecoration: "none" }}
+          >
+            creativesoftwares96@gmail.com
+          </a>
         </p>
 
         <p style={{ marginBottom: "12px" }}>
-          📞 <b>Phone:</b> 9548488443
+          📞 <b>Phone:</b>{" "}
+          <a
+            href="tel:9548488443"
+            style={{ color: "#38bdf8", textDecoration: "none" }}
+          >
+            9548488443
+          </a>
         </p>
+
+
 
         <p style={{ marginBottom: "12px" }}>
           💻 <b>GitHub:</b>{" "}
